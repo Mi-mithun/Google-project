@@ -57,8 +57,8 @@ section .main{
 }
 section .main .text{
     position: relative;
-width: 100%;
-margin-top: 20px;
+    width: 93%;
+    margin-top: 20px;
 }
 section .main .text .search{
     width: 100%;
@@ -136,8 +136,8 @@ section .footer .ftr ul li:hover{
 @media (max-width:900px){
     
     section{
-        width: 110%;
-        min-height: 109vh;
+        width: 123%;
+        min-height: 125vh;
 
     }
 }
